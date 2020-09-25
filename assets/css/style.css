@@ -8,6 +8,16 @@ body {
   background-color: #d9dcd6;
 }
 
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+p {
+  font-size: 16px;
+}
+
+
 /* removed period, so it is no longer a class */
 header {
   padding: 20px;
@@ -51,15 +61,6 @@ header nav ul li {
   margin-left: 25px;
 }
 
-a {
-  color: #ffffff;
-  text-decoration: none;
-}
-
-p {
-  font-size: 16px;
-}
-
 #hero {
   height: 800px;
   width: 100%;
@@ -67,6 +68,13 @@ p {
   background-image: url("../images/digital-marketing-meeting.jpg");
   background-size: cover;
   background-position: center;
+}
+
+/* Updated to reflect main */
+main {
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
 }
 
 .float-left {
@@ -79,11 +87,67 @@ p {
   margin-left: 25px;
 }
 
-/* Updated to reflect main */
-main {
-  width: 75%;
-  display: inline-block;
-  margin-left: 20px;
+/* Changed class to id */
+#search-engine-optimization {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #0072bb;
+  color: #ffffff;
+}
+
+/* Changed class to id */
+#online-reputation-management {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #0072bb;
+  color: #ffffff;
+}
+
+/* Changed class to id */
+#social-media-marketing {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #0072bb;
+  color: #ffffff;
+}
+
+/* Changed class to id */
+#search-engine-optimization img {
+  max-height: 200px;
+}
+
+/* Changed class to id */
+#online-reputation-management img {
+  max-height: 200px;
+}
+
+/* Changed class to id */
+#social-media-marketing img {
+  max-height: 200px;
+}
+
+/* Changed class to id */
+#search-engine-optimization h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
+/* Changed class to id */
+#online-reputation-management h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
+/* Changed class to id */
+#social-media-marketing h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
 }
 
 /* Changed class to id */
@@ -153,69 +217,6 @@ main {
   display: block;
   margin: 10px auto;
   max-width: 150px;
-}
-
-/* Changed class to id */
-#search-engine-optimization {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-/* Changed class to id */
-#online-reputation-management {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-/* Changed class to id */
-#social-media-marketing {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-/* Changed class to id */
-#search-engine-optimization img {
-  max-height: 200px;
-}
-
-/* Changed class to id */
-#online-reputation-management img {
-  max-height: 200px;
-}
-
-/* Changed class to id */
-#social-media-marketing img {
-  max-height: 200px;
-}
-
-/* Changed class to id */
-.#search-engine-optimization h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-/* Changed class to id */
-#online-reputation-management h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-/* Changed class to id */
-#social-media-marketing h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
 }
 
 /* Removed period, so it is no longer a class */
