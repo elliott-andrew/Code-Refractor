@@ -1,4 +1,4 @@
-# Homework 01: Code Refractor
+# Code Refractor
 
 ## My Task
 
