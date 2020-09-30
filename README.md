@@ -7,10 +7,10 @@ The required tasks were to update an existing website for a mock marketing agenc
 The focus was on the source code, the structure of the HTML elements, the alt attributes associated with images, heading attributes, the title element, and cleaning up the existing code.
 
 ## URL to GitHub repo
-[https://github.com/elliott-andrew/hw1-code-refractor](https://github.com/elliott-andrew/hw1-code-refractor)
+[https://github.com/elliott-andrew/Code-Refractor](https://github.com/elliott-andrew/Code-Refractor)
 
 ## URL to working page
-[https://elliott-andrew.github.io/hw1-code-refractor/](https://elliott-andrew.github.io/hw1-code-refractor/)
+[https://elliott-andrew.github.io/Code-Refractor//](https://elliott-andrew.github.io/Code-Refractor/)
 
 ## Final Result 
 
