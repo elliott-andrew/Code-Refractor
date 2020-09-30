@@ -87,8 +87,8 @@ main {
   margin-left: 25px;
 }
 
-/* Changed class to id */
-#search-engine-optimization {
+/* Consolidated all classes into single style  */
+.services {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -97,55 +97,13 @@ main {
   color: #ffffff;
 }
 
-/* Changed class to id */
-#online-reputation-management {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-/* Changed class to id */
-#social-media-marketing {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-/* Changed class to id */
-#search-engine-optimization img {
+/* Consolidated all img classes into single style */
+.services img {
   max-height: 200px;
 }
 
-/* Changed class to id */
-#online-reputation-management img {
-  max-height: 200px;
-}
-
-/* Changed class to id */
-#social-media-marketing img {
-  max-height: 200px;
-}
-
-/* Changed class to id */
-#search-engine-optimization h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-/* Changed class to id */
-#online-reputation-management h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-/* Changed class to id */
-#social-media-marketing h2 {
+/* Consolidated all h2 classes into single style */
+.services h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
@@ -162,64 +120,26 @@ main {
   background-color: #2589bd;
 }
 
-/* Changed class to id */
-#benefit-lead {
+/* Consolidated section styles into single class */
+.benefits-info {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
-/* Changed class to id */
-#benefit-brand {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-/* Changed class to id */
-#benefit-cost {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-/* Changed class to id */
-#benefit-lead h3 {
+/* Consolidated h3 styles into single class */
+.benefits-info h3 {
   margin-bottom: 10px;
   text-align: center;
 }
 
-/* Changed class to id */
-#benefit-brand h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
-/* Changed class to id */
-#benefit-cost h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
-/* Changed class to id */
-#benefit-lead img {
+/* Consolidated img styles into single class */
+.benefits-info img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 
-/* Changed class to id */
-#benefit-brand img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
-
-/* Changed class to id */
-#benefit-cost img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
-
-/* Removed period, so it is no longer a class */
+/* removed period, so it is no longer a class */
 footer {
   padding: 30px;
   clear: both;
@@ -228,7 +148,6 @@ footer {
   text-align: center;
 }
 
-/* Removed period, so it is no longer a class */
 /* Updated to h4 */
 footer h4 {
   font-size: 20px;
